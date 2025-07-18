@@ -30,7 +30,7 @@ const Contact = () => (
               <h3 className="text-xl font-semibold text-red-500 mb-4 text-left">Follow Me</h3>
               <div className="flex space-x-4">
                 <a
-                  href="https://github.com/"
+                  href="https://github.com/neelraiyani5"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-red-500/20 hover:bg-red-500 p-3 rounded-lg transition-colors"

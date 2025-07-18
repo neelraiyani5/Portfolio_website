@@ -36,7 +36,7 @@ const Hero = () => (
               <span>Download Resume</span>
             </a>
             <a
-              href="https://github.com/"
+              href="https://github.com/neelraiyani5"
               target="_blank"
               rel="noopener noreferrer"
               className="border border-red-500 text-red-500 px-8 py-3 rounded-lg font-semibold transition-colors flex items-center justify-center space-x-2 transform transition-transform duration-200 hover:scale-105 hover:shadow-lg"
